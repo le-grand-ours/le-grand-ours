@@ -1,4 +1,4 @@
-### Salut, je suis [Ton Nom/Pseudo] ! 👋
+### Salut, je suis le-grand-ours ! 👋
 
 Je suis un développeur Laravel qui adore construire des applications web robustes, scalables et performantes. Mon objectif est de transformer des idées complexes en solutions élégantes et efficaces.
 
@@ -6,8 +6,8 @@ Je suis un développeur Laravel qui adore construire des applications web robust
 
 ### Mon Activité GitHub :
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=**YOUR_GITHUB_USERNAME**&show_icons=true&theme=radical)](https://github.com/**YOUR_GITHUB_USERNAME**)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**YOUR_GITHUB_USERNAME**&layout=compact&theme=radical)](https://github.com/**YOUR_GITHUB_USERNAME**)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=le-grand-ours&show_icons=true&theme=radical)](https://github.com/le-grand-ours)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=le-grand-ours&layout=compact&theme=radical)](https://github.com/le-grand-ours)
 
 ---
 
